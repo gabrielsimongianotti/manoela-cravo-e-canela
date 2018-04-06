@@ -1,0 +1,29 @@
+
+div#interface{
+    /*a linha tem no maximo 500px*/
+    width:300px;
+    height:300px;
+    /*cor do fundo dos 500 px*/
+    
+    margin: 9% auto auto auto;
+    
+    background-color:#606070;
+    opacity: 0.8;
+    border-radius: 10%;
+}
+div#salvar{
+    margin: 2% auto auto 10%;
+}
+div#botao{
+    margin: -2% auto auto 55%;
+}
+div#login{
+    margin: auto auto auto  35%;
+    color: #fff9f9;
+}
+div#senha{
+    margin: auto 20% auto 10%;
+}
+div#email{
+    margin: auto 20% auto 10%;
+}
